@@ -7,11 +7,13 @@ public class FreelancerService {
         for (int i = 1; i <= 12; i++) {
             if (currentMoney < threshold) {
                 // Работаем
-                currentMoney += income;
+                int expences = 0;
+                currentMoney += income - expences;
                 currentMoney -= expenses;
-            } else {
+
+                } else {
                 // Отдыхаем
-                currentMoney -= expenses;
+                currentMoney -= expenses + (currentMoney / 3 );
                 currentMoney -= currentMoney;
                 restMonths++;
             }
