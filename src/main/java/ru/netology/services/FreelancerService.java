@@ -1,4 +1,5 @@
 package ru.netology.services;
+
 public class FreelancerService {
     public int calculateRestMonths(int income, int expenses, int threshold) {
         int currentMoney = 0;
@@ -10,15 +11,13 @@ public class FreelancerService {
                 int expences = 0;
                 currentMoney += income - expences;
                 currentMoney -= expenses;
-
-                } else {
+            } else {
                 // Отдыхаем
-                currentMoney -= expenses + (currentMoney / 3 );
+                currentMoney = (currentMoney - expenses) / 3;
                 currentMoney -= currentMoney;
                 restMonths++;
             }
         }
-
         return restMonths;
     }
 }
