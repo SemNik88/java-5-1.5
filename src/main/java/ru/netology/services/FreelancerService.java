@@ -14,7 +14,6 @@ public class FreelancerService {
             } else {
                 // Отдыхаем
                 currentMoney = (currentMoney - expenses) / 3;
-                currentMoney -= currentMoney;
                 restMonths++;
             }
         }
