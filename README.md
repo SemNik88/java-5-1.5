@@ -1,4 +1,4 @@
 # Java. Teask # 5-1.5
-![pic#1](https://github.com/SemNik88/java-5-1.5/assets/142649558/ab8ee1a2-f776-40d4-a192-3f74398eeb48)
-![pic#2](https://github.com/SemNik88/java-5-1.5/assets/142649558/1f947e39-b434-478f-aa7b-d1a21a0c180d)
-![pic#3](https://github.com/SemNik88/java-5-1.5/assets/142649558/48227170-037a-48a1-8377-4150e0ed8b7e)
+![pic#2](https://github.com/SemNik88/java-5-1.5/assets/142649558/a933df9b-66c1-4f21-95ee-8ad7eb042018)
+![pic#1](https://github.com/SemNik88/java-5-1.5/assets/142649558/0a778a76-370c-4991-9325-78975be3eddb)
+![pic#3](https://github.com/SemNik88/java-5-1.5/assets/142649558/443b5a2d-e5c6-464f-bbd1-acbfe74128dc)
